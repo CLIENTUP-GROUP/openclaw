@@ -1,6 +1,6 @@
 # OpenClaw + Claude Masterclass
 
-Your AI runs 24/7, messages you on WhatsApp/Telegram, checks your inbox, manages your calendar, does research, writes emails in your voice, and automates your business ops.
+Your AI runs 24/7, messages you on WhatsApp/Telegram, and helps you scale your business. 
 
 ## How to Use This
 
