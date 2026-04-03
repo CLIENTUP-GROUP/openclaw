@@ -1,6 +1,6 @@
 # OpenClaw + Claude Masterclass
 
-Your AI runs 24/7, messages you on WhatsApp/Telegram, checks your inbox, manages your calendar, does research, writes emails in your voice, and automates your business ops. Two people run a $400M company with this stack.
+Your AI runs 24/7, messages you on WhatsApp/Telegram, checks your inbox, manages your calendar, does research, writes emails in your voice, and automates your business ops.
 
 ## How to Use This
 
@@ -78,5 +78,3 @@ After that, you browse the reference docs to add more:
 - GitHub: https://github.com/openclaw/openclaw
 - Community: https://discord.com/invite/clawd
 - Skills marketplace: https://clawhub.ai
-- Marketing skills: https://marketing-skills.com/
-- Agent templates: https://github.com/msitarzewski/agency-agents
