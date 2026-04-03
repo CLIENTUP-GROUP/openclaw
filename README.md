@@ -1,4 +1,4 @@
-# OpenClaw + Claude Masterclass
+# OpenClaw + Claude
 
 Your AI runs 24/7, messages you on WhatsApp/Telegram, and helps you scale your business. 
 
